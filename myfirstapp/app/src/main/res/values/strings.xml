@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myfirstapp</string>
+    <string name="login">Already registered? <u><b>Login</b></u></string>
+    <string name="signup">Don`t have account yet? <u><b>Registere here!</b></u></string>
+
+    <string name="loginLabel">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signOut">Sign Out</string>
+    <string name="welcome">Welcome!</string>
+
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
